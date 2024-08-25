@@ -16,5 +16,11 @@ namespace super_duper_rotary_phone.Controllers
         {
             return Ok("Result");
         }
+
+        [HttpPost]
+        public IActionResult Post()
+        {
+            return CreatedAtAction("Post", "Result");
+        }
     }
 }
