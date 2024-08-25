@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/super-duper-rotary-phone/obj/Debug/net8.0/super-duper-rotary-phone.AssemblyInfo.cs
+/super-duper-rotary-phone/obj/Debug/net8.0/super-duper-rotary-phone.AssemblyInfoInputs.cache
