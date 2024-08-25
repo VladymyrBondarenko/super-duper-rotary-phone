@@ -1,0 +1,6 @@
+@super_duper_rotary_phone_HostAddress = http://localhost:5222
+
+GET {{super_duper_rotary_phone_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
