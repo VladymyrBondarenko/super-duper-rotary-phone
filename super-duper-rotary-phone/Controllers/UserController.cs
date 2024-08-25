@@ -11,11 +11,13 @@ namespace super_duper_rotary_phone.Controllers
             
         }
 
+        [HttpGet]
         public IActionResult Get()
         {
             return Ok("Result");
         }
 
+        [HttpPost]
         public IActionResult Post()
         {
             return Ok("Result");
