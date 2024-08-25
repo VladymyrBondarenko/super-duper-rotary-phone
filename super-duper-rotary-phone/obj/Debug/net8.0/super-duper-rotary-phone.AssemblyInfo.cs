@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("super-duper-rotary-phone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83e0369726b3a75c9f35b889319ac9d8d7781df8")]
 [assembly: System.Reflection.AssemblyProductAttribute("super-duper-rotary-phone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("super-duper-rotary-phone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
